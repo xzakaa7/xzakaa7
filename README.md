@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my GitHub profile
 
-I'm **Dhama** from **Yogyakarta** and currently focused on learning **Artificial Intelligence (AI)** and **UI** development. I have a strong interest in the **Dart** programming language and the **Flutter** framework to create modern, AI-enhanced applications with responsive interfaces.
+I'm **Dhama** from **Indonesia** and currently focused on learning **Artificial Intelligence (AI)** and **UI** development. I have a strong interest in the **Dart** programming language and the **Flutter** framework to create modern, AI-enhanced applications with responsive interfaces.
 
 ## 🔍 Currently Learning
 
