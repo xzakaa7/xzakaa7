@@ -4,9 +4,6 @@ I'm **Dhama** from **Indonesia** and currently focused on learning **Artificial 
 
 ## 🔍 Currently Learning
 
-- **Programming Language:** Dart
-- **Framework:** Flutter
-- **Topics:** Artificial Intelligence (AI) development and User Interface (UI) design
 
 ## 🎯 About Me
 
