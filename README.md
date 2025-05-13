@@ -10,7 +10,7 @@ I'm **Dhama** from **Indonesia** and currently focused on learning **Artificial 
 - 🌱 Passionate about integrating AI into applications to enhance functionality and user experience.
 - 🎨 Exploring the intersection of AI and UI/UX to create smart, visually engaging interfaces.
 - 🤖 Constantly learning about new AI technologies and how they can be applied in real-world solutions.
-- 💬 Happy to discuss **Dart**, **Flutter**, **AI**, and **UI development**.
+
 
 ## 🌐 Let’s Connect!
 
